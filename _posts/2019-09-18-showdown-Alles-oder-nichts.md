@@ -9,7 +9,7 @@ last_modified_at: 2019-09-18T15:59:57-04:00
 
 | 1 쉘리    | 2 불      | 3 엘프리모 |
 | --------  | --------- | --------- |   
-| ![shelly](.../assets/images/shelly.png) | ![bull](.../assets/images/bull.png) | ![primo](.../assets/images/primo.png) |
+| ![shelly](../assets/images/shelly.png) | ![bull](../assets/images/bull.png) | ![primo](../assets/images/primo.png) |
 | 근접 덤불  | 근접 덤불 | 근접 무적 |
 
 **맵의 특징**
